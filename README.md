@@ -53,8 +53,8 @@ Aggressive tweaking suite for gamers and performance enthusiasts.
 ### Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Bzpass-System-Suite.git
-   cd Bzpass-System-Suite
+   git clone https://github.com/dcbzpass/Bzpass-Multitool.git
+   cd Bzpass-Multitool
    ```
 
 2. **Install dependencies:**
